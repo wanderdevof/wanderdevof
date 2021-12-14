@@ -1,12 +1,12 @@
-[![Coverage Status](https://coveralls.io/repos/github/wanderdevof/wanderdevof/badge.svg?branch=main)](https://coveralls.io/github/wanderdevof/wanderdevof?branch=main)
+# Wander Dev
 
-- 👋 Hi, I’m @wanderdevof
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![Language Badge](https://img.shields.io/badge/Preferred%20language-CSharp-blue)] [![Email Badge](https://img.shields.io/badge/Email-dev%40wanderdev.tech-brightgreen)](mailto:dev@wanderdev.tech)
 
-<!---
-wanderdevof/wanderdevof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm a fullstack developer with the following technologies: C#, Xamarin, Angular and Ionic, but my focus is more on the back-end side (C#)
+I love minimalism and simplicity!
+
+## Technologies
+- Front-End: HTML, CSS, Javascript, Bootstrap, Angular
+- Back-End: C#, NodeJS, Dart
+- Mobile: Xamarin Forms, Flutter, Ionic
