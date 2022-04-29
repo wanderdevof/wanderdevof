@@ -9,4 +9,4 @@ I love minimalism and simplicity!
 ## Technologies
 - Front-End: HTML, Javascript, Bootstrap, Angular
 - Back-End: CSharp, Golang
-- Mobile: Xamarin Forms, Ionic
+- Mobile: Kotlin
